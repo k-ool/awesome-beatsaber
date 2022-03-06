@@ -19,6 +19,7 @@ Useful links for BeatSaber
 
 - [ModelSaber](https://modelsaber.com/) - A repository for Avatars, Sabers, Platforms, and Bloqs.
 
+- [BeatSaberD1](https://github.com/ShimmyMySherbet/BeatSaverDl) -  A tool to download maps from BeatSaver, as an alternative to the Beat Saber Mod Assistant One-Click installer.
 
 
 ## Mods
